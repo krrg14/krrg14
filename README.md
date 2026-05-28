@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-an aspiring Cloud & DevOps Engineer passionate about AWS, Docker, Kubernetes, Terraform, Linux, and CI/CD automation.
+An aspiring Cloud & DevOps Engineer passionate about AWS, Docker, Kubernetes, Terraform, Linux, and CI/CD automation.
 
 ## 🚀 Skills
 - AWS Cloud
